@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.destination-item {
+  padding: 10px;
+  margin: 20px;
+}
+
+.destination-img {
+  height: 300px;
+  border-radius: 8px;
+  max-width: 500px;
+}
+
+.destination-name {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
